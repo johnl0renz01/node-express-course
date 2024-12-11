@@ -3,6 +3,9 @@ node app.js
 npm init
 npm init -y
 
+.gitignore file (ignore folders/files)
+/node_modules
+/photo.jpg
 
 ~~~
 
