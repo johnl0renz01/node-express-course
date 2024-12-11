@@ -18,6 +18,13 @@ npm i -g nodemon
 npm uninstall packagename
 to remove all, delete node modules folder and package-lock.json
 
+dependency updates guide, example:
+"lodash": "^4.17.20"
+4 = breaking/major changes
+17 = minor changes
+20 = patches
+
+
 
 
 ~~~
