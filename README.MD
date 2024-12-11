@@ -10,9 +10,13 @@ npm init -y
 // Node watcher, on save
 npm i nodemon -D
 or npm i nodemon --save-dev
-
 nodemon app.js
 
+//global
+npm i -g nodemon
+
+npm uninstall packagename
+to remove all, delete node modules folder and package-lock.json
 
 
 
