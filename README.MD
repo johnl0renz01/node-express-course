@@ -1,3 +1,11 @@
+~~~
+node app.js
+npm init
+npm init -y
+
+
+~~~
+
 # Node and Express Tutorial
 
 #### Node Course
