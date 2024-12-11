@@ -7,6 +7,15 @@ npm init -y
 /node_modules
 /photo.jpg
 
+// Node watcher, on save
+npm i nodemon -D
+or npm i nodemon --save-dev
+
+nodemon app.js
+
+
+
+
 ~~~
 
 # Node and Express Tutorial
