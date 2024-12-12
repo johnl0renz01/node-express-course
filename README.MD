@@ -24,6 +24,8 @@ dependency updates guide, example:
 17 = minor changes
 20 = patches
 
+sample install specific version
+npm install lodash@4.17.20 --save
 
 
 
